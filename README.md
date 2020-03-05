@@ -6,7 +6,6 @@ The website is a prototype for employers to create their own account and add/edi
 ## SCOPE
 The website is a job portal for employee to find job and employer to post new job posting
 _LOGIN / REGISTER / LOGOUT_
-- user can create an account to post a job listing 
 
 _CREATE_ - user can enter the new job opening. 
 
@@ -58,7 +57,7 @@ Many bugs are not fixed due to time. Not able to update user when changes done
 6b | `Test Click on 'Submit' in Login Page` | `Go to Landing page and show 'You have successfully logged in' and username` | **Pass** 
 7a | `Test Register Button` | `Show a register page for user to enter email, login id and password (twice)` | **Pass** 
 7b | `Test Click on 'Submit' Register Button` | `Go to Landing page and show 'You have successfully logged in' and username'` | **Pass** 
-7 | `Test Logout Button` | `Logout and return to landing page and show Login & Register option` | **Pass** 
+8 | `Test Logout Button` | `Logout and return to landing page and show Login & Register option` | **Pass** 
 
 
 #### Deployment
